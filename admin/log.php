@@ -54,7 +54,7 @@ echo $con;
     <option value="0" selected>所有登录方式</option>
     <option value="qq">QQ</option>
   </select>
-  <div class="mdui-float-right">
+  <div class="mdui-float-right mdui-m-b-2">
     <a :href="url.Admin + '/log.php'" class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-theme">重置</a>
     <button type="submit" class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-theme-accent">搜索</button>
   </div>

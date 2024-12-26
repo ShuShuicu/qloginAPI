@@ -38,7 +38,7 @@ include './head.php';
                 </div>
             </div>
             <div class="mdui-float-right mdui-m-b-2">
-                <button type="submit" class="mdui-btn mdui-ripple mdui-color-theme-accent">登陆</button>
+                <button type="submit" class="mdui-btn mdui-ripple mdui-color-theme-accent">登录</button>
             </div>
         </form>
 <?php require_once './foot.php'; ?>
