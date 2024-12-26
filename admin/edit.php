@@ -35,7 +35,7 @@ if($my=='add'){
     </select>
 	<select name="status" class="mdui-select">
 		<option value="1" selected>启用登录</option>
-        <option value="2">关闭登录</option>
+        <option value="0">关闭登录</option>
     </select>
 </div>
 <div class="mdui-float-right mdui-m-b-2">
